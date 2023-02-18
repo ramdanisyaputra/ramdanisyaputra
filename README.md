@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ramdanisyaputra
 - 👀 I’m interested in software architecture
-- 🌱 I’m currently learning backend development and frontend development
+- 🌱 I’m currently learning backend development, frontend development also DevOps
 - 🏢 I’m currently working at T-Rec Indonesia as Web Developer
